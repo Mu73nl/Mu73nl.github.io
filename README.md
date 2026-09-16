@@ -1,22 +1,26 @@
-# KURA: Çekiliş ve Karar
+# KURA
 
-KURA, günlük seçimleri hızlı, sade ve tarafsız şekilde yapmanıza yardımcı olan bir çekiliş ve karar uygulamasıdır.
+KURA, günlük seçimleri hızlı, sade ve tarafsız şekilde yapmanıza yardımcı olan bir seçim ve kura uygulamasıdır.
+
+Kazanan seçme, katılımcıları rastgele sıralama, iki seçenek arasında seçim yapma ve diğer basit rastgele karar işlemleri için kullanılabilir.
 
 ## Destek / Support
 
-KURA ile ilgili soru, öneri veya sorunlarınız için geliştirici ile iletişime geçebilirsiniz.
+KURA ile ilgili soru, öneri veya sorunlarınız için uygulamanın resmi destek sayfasını kullanabilirsiniz.
 
 **Geliştirici / Developer:** mu73
 
 ---
 
-# KURA: Raffle & Decision
+# KURA
 
-KURA is a simple and impartial raffle and decision-making application designed to help with everyday choices.
+KURA is a simple and impartial selection and raffle application designed to help users make everyday choices.
+
+It can be used to select a winner, randomly order participants, choose between two options, and make other simple random decisions.
 
 ## Support
 
-For questions, suggestions, or issues regarding KURA, you may contact the developer.
+For questions, suggestions, or issues regarding KURA, please use the application's official support page.
 
 **Developer:** mu73
 
@@ -24,7 +28,7 @@ For questions, suggestions, or issues regarding KURA, you may contact the develo
 
 ## Gizlilik / Privacy
 
-KURA'nın Gizlilik Politikası / KURA Privacy Policy:
+KURA Gizlilik Politikası / KURA Privacy Policy:
 
 [**Gizlilik Politikası / Privacy Policy**](privacy-policy.html)
 
